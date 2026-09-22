@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Drivstoffkalkulator",
+      "hasCanvas": false,
+      "bodyTextLen": 827,
+      "bodyTextHash": "90f185e30321eaf38b2870d425e429de92492246736b072406c56570d8b57402",
+      "bodyTextPrefix": "Elbil vs bensin/diesel År år Forbruk bensin/diesel L / 100 km El",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Drivstoffkalkulator",
+      "hasCanvas": false,
+      "bodyTextLen": 827,
+      "bodyTextHash": "90f185e30321eaf38b2870d425e429de92492246736b072406c56570d8b57402",
+      "bodyTextPrefix": "Elbil vs bensin/diesel År år Forbruk bensin/diesel L / 100 km El",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
